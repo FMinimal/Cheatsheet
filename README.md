@@ -1,4 +1,4 @@
-# markdown-test
+# markdown cheatsheet
 This file is used to write down markdown commandts and test the behavior of markdown
 
 ## command
@@ -8,5 +8,5 @@ This file is used to write down markdown commandts and test the behavior of mark
 - "&\#8594;" &#8594; basic arrow  
 - ➡ 🟢 &#8594; emojis work  
 
-## test
+## test area
 
