@@ -1,5 +1,14 @@
 # Cheatsheet
-Personal cheatsheet for Helix, LaTeX and Markdown
+Personal cheatsheet for Git, Helix, LaTeX and Markdown
+
+## Git
+
+## basic
+git clone ... &#8594; clone repo
+git add ... &#8594; add to repo
+git commit ... &#8594; commit to repo
+git commit -m &#8594; commit wih message
+git push ... (main/mater) &#8594; push repo to hub
 
 ## Helix
 
