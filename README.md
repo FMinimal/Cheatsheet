@@ -3,7 +3,7 @@ Personal cheatsheet for Git, Helix, LaTeX and Markdown
 
 ## Git
 
-## basic
+### basic
 - git clone ... &#8594; clone repo
 - git add ... &#8594; add to repo
 - git commit ... &#8594; commit to repo
