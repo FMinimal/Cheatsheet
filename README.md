@@ -32,11 +32,12 @@ Personal cheatsheet for Git, Helix, LaTeX and Markdown
 - w &#8594; select word to the end
 - b &#8594; select word to the start
 - x &#8594; select line
+- l &#8594; select tis and next letter
 - o &#8594; new line below
 - O &#8594; new line above
 - c &#8594; copy
 - p &#8594; past
-- (v) w 3 p &#8594; select next 3 words, works with every number
+- (v) 3 l/w/x &#8594; select the next (3) letters, words, lines, works with every number
 
 ##### go to
 - g 2 g &#8594; line 2, works with every line number
