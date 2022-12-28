@@ -8,7 +8,7 @@ Personal cheatsheet for Git, Helix, LaTeX and Markdown
 - git add ... &#8594; add to repo
 - git commit ... &#8594; commit to repo
 - git commit -m ... &#8594; commit wih message
-- git push ... (main/master) &#8594; push repo to hub
+- git push origin ... (main/master) &#8594; push repo to hub
 
 ## Helix
 
