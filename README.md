@@ -7,8 +7,8 @@ Personal cheatsheet for Git, Helix, LaTeX and Markdown
 - git clone ... &#8594; clone repo
 - git add ... &#8594; add to repo
 - git commit ... &#8594; commit to repo
-- git commit -m &#8594; commit wih message
-- git push ... (main/mater) &#8594; push repo to hub
+- git commit -m ... &#8594; commit wih message
+- git push ... (main/master) &#8594; push repo to hub
 
 ## Helix
 
@@ -36,6 +36,7 @@ Personal cheatsheet for Git, Helix, LaTeX and Markdown
 - O &#8594; new line above
 - c &#8594; copy
 - p &#8594; past
+- (v) w 3 p &#8594; select next 3 words, works with every number
 
 ##### go to
 - g 2 g &#8594; line 2, works with every line number
