@@ -63,8 +63,8 @@ test \
 - | -
 - ^ v < > test
 space   test \  
-    
-    test
-    test
+  
+  test
+  test
     test2
     test2
