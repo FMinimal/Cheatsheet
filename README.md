@@ -53,21 +53,10 @@ Personal cheatsheet for Git, Helix, LaTeX and Markdown
 - \- &#8594; list  
 - "&\#8594;" &#8594; basic arrow  
 - ➡ 🟢 &#8594; emojis work
-- \```
+- \``` \
   \``` are used for code blocks (emojis are working in these)
 - \&nbsp; for spaces (use \&nbsp;space&nbsp;space...) for multible spaces
-- \-
+- \- \
     \- für Unterpunkte  
 
 ## test area
-- 1 \
-test 
-  - 1.1  
-- | -
-- ^ v < > test \
-- \```
-space &nbsp; &nbsp; &nbsp; &nbsp; test \ 
-```html
-  test
-  ⬆️
-```
