@@ -57,6 +57,6 @@ Personal cheatsheet for Git, Helix, LaTeX and Markdown
   \``` are used for code blocks (emojis are working in these)
 - \&nbsp; for spaces (use \&nbsp;space&nbsp;space...) for multible spaces
 - \- \
-    \- für Unterpunkte  
+  &nbsp; \- für Unterpunkte  
 
 ## test area
