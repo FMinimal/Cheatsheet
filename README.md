@@ -58,13 +58,14 @@ Personal cheatsheet for Git, Helix, LaTeX and Markdown
 
 ## test area
 - 1 \
-test \
+test 
   - 1.1  
 - | -
-- ^ v < > test
-space   test \  
-  
+- ^ v < > test \
+space   test \ 
+```html
   test
   test
-    test2
-    test2
+  test2
+  t`est2
+```
