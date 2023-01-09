@@ -62,7 +62,7 @@ test
   - 1.1  
 - | -
 - ^ v < > test \
-space   test \ 
+space&nbsp;&nbsp;&nbsp;&nbsp;test \ 
 ```html
   test
   test
