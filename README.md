@@ -57,15 +57,12 @@ Personal cheatsheet for Git, Helix, LaTeX and Markdown
 - ➡ 🟢 &#8594; emojis work  
 
 ## test area
-<pre>
-space     test
-<\pre>
-
-- 1
-test
+- 1 \
+test \
   - 1.1  
 - | -
 - ^ v < > test
+space   test \  
     
     test
     test
