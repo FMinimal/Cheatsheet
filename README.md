@@ -60,3 +60,4 @@ Personal cheatsheet for Git, Helix, LaTeX and Markdown
   &nbsp; \- für Unterpunkte  
 
 ## test area
+- "-"
