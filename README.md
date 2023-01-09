@@ -44,8 +44,6 @@ Personal cheatsheet for Git, Helix, LaTeX and Markdown
 - g l &#8594; line end
 - g h &#8594; line start
 
-## LaTeX
-
 ## Markdown
 - \\x &#8594; display command
 - \\ &#8594; line break
@@ -54,7 +52,8 @@ Personal cheatsheet for Git, Helix, LaTeX and Markdown
 - \# &#8594; header  
 - \- &#8594; list  
 - "&\#8594;" &#8594; basic arrow  
-- ➡ 🟢 &#8594; emojis work  
+- ➡ 🟢 &#8594; emojis work
+- \`\`\` between these
 
 ## test area
 - 1 \
@@ -62,7 +61,8 @@ test
   - 1.1  
 - | -
 - ^ v < > test \
-&nbsp; &nbsp; &nbsp; &nbsp; test \ 
+- \```
+space &nbsp; &nbsp; &nbsp; &nbsp; test \ 
 ```html
   test
   ⬆️
